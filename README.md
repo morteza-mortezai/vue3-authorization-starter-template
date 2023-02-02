@@ -14,11 +14,11 @@ For more information, please refer to the documentation included in the reposito
 
 # Pages
 
---Login (Public)
+-- Login (Public)
 
---Register (Public)
+-- Register (Public)
 
---Home Page (authentication Required)
+-- Home Page (authentication Required)
 
 ## Recommended IDE Setup
 
