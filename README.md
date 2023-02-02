@@ -13,11 +13,12 @@ Features:
 For more information, please refer to the documentation included in the repository. Enjoy!
 
 # Pages
---Login (Public)
---Register (Public)
---Home Page (authentication Required)
 
-# Pages 
+--Login (Public)
+
+--Register (Public)
+
+--Home Page (authentication Required)
 
 ## Recommended IDE Setup
 
